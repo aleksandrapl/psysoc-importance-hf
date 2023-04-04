@@ -1,2 +1,2 @@
 # psysoc-importance-hf
-Code to help reproduce results in article
+Python code (in Jupyter NB with sample outputs) to reproduce results in article.
